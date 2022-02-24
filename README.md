@@ -6,5 +6,6 @@ About me :
 - 🌱 Currently learning REACT, NODE JS, POSTGRES 
 - 📫 How to reach me: https://www.linkedin.com/in/elmirakamaldar/
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smkamaldar"/>
+  </div>
